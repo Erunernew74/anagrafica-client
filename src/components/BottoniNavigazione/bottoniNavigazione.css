@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+
+.divNavigazione {
+    padding: 25px;
+}
+
+.btnNavigazione {
+    width: 150px;
+    height: 45px;
+    border: none;
+    border-radius: 15px;
+    margin: 0 15px;
+    font-family: 'Titillium web'
+}
+
+#home {
+    background-color: red;
+    color: white;
+}

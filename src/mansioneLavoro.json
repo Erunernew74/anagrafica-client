@@ -1,0 +1,29 @@
+[
+    {
+        "tipo":"apprendista"
+    },
+    {
+        "tipo":"Capo reparto"
+    },
+    {
+        "tipo":"Commesso/a"
+    },
+    {
+        "tipo":"Impiegato/a"
+    },
+    {
+        "tipo":"Libero professionista"
+    },
+    {
+        "tipo":"Manager"
+    },
+    {
+        "tipo":"Operaio/a"
+    },
+    {
+        "tipo":"Operaio/a specializzato/a"
+    },
+    {
+        "tipo":"Quadro"
+    }
+]

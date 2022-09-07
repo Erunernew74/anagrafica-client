@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+
+.Tab {
+    padding: 10px 50px;
+}
+
+.containerNavigazione {
+    margin: 10px 50px;
+    font-family: 'Mukta';
+    color: #008200
+}
+
+label {
+    font-size: 20px;
+}
+
+input{
+    padding: 9px;
+}
+
+select{
+    padding: 9px;
+}
+
+.btnSave {
+    width: 150px;
+    height: 45px;
+    border: none;
+    color: white;
+    background: blue
+}
+.btnSave:hover {
+    background: #0000df
+}
+
+.btnBottoni{
+    border: none;
+    background: green;
+    color:white;
+    padding: 15px;
+}
+
+.btnBottoni:hover{
+    background-color:#00572c;
+}
+
+.divTitle {
+    display: flex;
+    align-items: center;
+    margin:20px 0;
+    background: red;
+    color:white;
+    padding:15px;
+}
